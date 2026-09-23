@@ -24,7 +24,7 @@ I got into cybersecurity through programming and gradually ended up here: **fore
 
 ### EYCC 2026 — `Cyb3r_Ph4nt0ms`
 
-🥇 **1st place** — qualification
+🥇 **1st place** — qualifications & finals
 
 🩸 **First blood** on 4/6 Forensics challenges
 
