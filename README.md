@@ -31,7 +31,8 @@ I got into cybersecurity through programming and gradually ended up here: **fore
 ### EYCC 2025
 
 🏅 **5th place** — finals
-Played the qualification and final solo.
+
+Played the qualifications & finals solo
 
 ## writeups & other evidence
 
