@@ -42,7 +42,6 @@ Some of the things you'll find there:
 * disk & memory forensics
 * PCAP analysis
 * malware investigations
-* Windows artifacts
 * CTF walkthroughs
 
 ## elsewhere
